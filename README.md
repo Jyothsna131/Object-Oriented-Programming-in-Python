@@ -1,13 +1,14 @@
-# Introduction-to-Object-Oriented-Programming:
+# Object-Oriented-Programming in Python:
 **Object Oriented Programming:** It is a methodology to design a program using classes and objects.      
 **Class:** It is a blueprint/template that describes the details of an object.      
 **Object:** It is an instance of a class.                     
 **Empty class:** An empty class can be created using pass keyword.                     
 **Constructor:** It is a special method that is used to initialize an object and allocate memory to it. __init__() is a constructor in python
-    An object cannot be created without a constructor. If we don't define it, python defines it.
-    **Two types:**
+    An object cannot be created without a constructor. If we don't define it, python defines it.   
+    **Two types:**    
     - **Default Constructor:** Constructor that doesn't accept any arguments during the object creation.
     - **Parameterized:** Constructor that accepts arguments during the object creation.
+    
 **Self:** It is a pointer that points to the object of the class
   - In __init__() method, it refers to the newly created object. In other methods, it refers to the object whose method was called.
 
