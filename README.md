@@ -32,3 +32,4 @@ New class is called as a child/derived class and the existing class is called as
 - **Hierarchial Inheritance:** Super class will be inherited by multiple derived classes
 - **Multiple Inheritance:** Class inherits multiple super classes
 - **Hybrid Inheritance:** It is a combination of Multilevel and Multiple inheritance.
+![](Inheritance.PNG)
