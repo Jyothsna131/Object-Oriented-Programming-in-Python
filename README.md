@@ -34,7 +34,7 @@ New class is called as a child/derived class and the existing class is called as
 - **Hybrid Inheritance:** It is a combination of Multilevel and Multiple inheritance.
 ![](Inheritance.PNG) 
 
-**Polymorphism: ** Poly means multiple and morph means forms i.e polymorphism is nothing but ability to handle multiple forms.   
+**Polymorphism:** Poly means multiple and morph means forms i.e polymorphism is nothing but ability to handle multiple forms.   
 Types of polymorphism:  
 **Compile time/Static Polymorphism:** Compiler itself determines which method should be called. Eg: Method Overloading     
 **Run time/Dynamic Polymorphism:** Compiler cannot determine the method that has to be called at compile time. It is resolved at runtime. Eg: Method Overriding    
